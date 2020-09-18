@@ -6,6 +6,7 @@
 *.sqlite3-journal
 
 env2
+env
 venv
 media
 collected_static
